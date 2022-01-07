@@ -7,5 +7,7 @@ Python for Data Science - Course (Learn Python, Pandas, NumPy, Matplotlib)
 * Plots
   * Plots for different countries
 
+![](/Plots/World.png)
+
 ## Python for Data Science FreeCodeCamp
 * `Python_for_Data_Science_FreeCodeCamp.ipynb`
